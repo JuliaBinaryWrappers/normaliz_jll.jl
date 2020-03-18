@@ -1,0 +1,12 @@
+name = "normaliz_jll"
+uuid = "6690c6e9-4e12-53b8-b8fd-4bffaef8839f"
+version = "3.8.4+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
