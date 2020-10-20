@@ -1,6 +1,6 @@
 name = "normaliz_jll"
 uuid = "6690c6e9-4e12-53b8-b8fd-4bffaef8839f"
-version = "3.8.5+1"
+version = "3.8.5+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
