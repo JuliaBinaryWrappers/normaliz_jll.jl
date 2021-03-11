@@ -1,6 +1,6 @@
 name = "normaliz_jll"
 uuid = "6690c6e9-4e12-53b8-b8fd-4bffaef8839f"
-version = "300.800.900+0"
+version = "300.800.901+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,6 +14,6 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 FLINT_jll = "e134572f-a0d5-539d-bddf-3cad8db41a82"
 
 [compat]
-JLLWrappers = "1.1.0"
+JLLWrappers = "1.2.0"
 julia = "1.0"
-FLINT_jll = "=200.700.0"
+FLINT_jll = "~200.700"
