@@ -1,200 +1,252 @@
 [[normaliz]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4e542994bf75b8d72e75148eb82e1bbc5a16d0cf"
-libc = "glibc"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "e1be55c8b702fc9038d9289e9ee9bfa39185819fc175a1c3d43f1be1b28aeb1d"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.aarch64-linux-gnu-cxx03.tar.gz"
-[[normaliz]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1cdbb5d07d1897470034b484773b91925f87708e"
-libc = "glibc"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "d68ddb1ac2d82995e8e27b7ebcd41a7a7c6a8649e29dfff7c7e14255381e3179"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.aarch64-linux-gnu-cxx11.tar.gz"
-[[normaliz]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "903b54a3a8c297800fc71d19830c1efdc647e970"
-libc = "musl"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "f31a7906850775751ea298e28a87614d55722f114dd355afac19292af4944aa1"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.aarch64-linux-musl-cxx03.tar.gz"
-[[normaliz]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "36f55db559cb5443e228bc59d7384a21d2291c9f"
-libc = "musl"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "a522646bf830fe44ef12ed69db578e01fa3f174055f7c3e50e913d22144aff9a"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.aarch64-linux-musl-cxx11.tar.gz"
-[[normaliz]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "16e35cb2e05a41221895f45ca960e5c6050b9d8f"
-libc = "glibc"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "c5a223a76fac8bfac60e26644f1a8738c57c3efe5b44caa75d5031bb11d006d7"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[normaliz]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "83b3d05c72f05ccb270fc3545917bc4582d0e1fd"
-libc = "glibc"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "309be9fd90a1462e1c61e8cd47f2e791358b0adb3872b06cfc46e3d7f7c93e60"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[normaliz]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e8cc0c417d606bfcea9e661ae03804c5708d4314"
-libc = "musl"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "b696c9d0a026c19b4698090f11452a704042428b3f55488eab366f99e2deb644"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[normaliz]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "198bbe2b205f81f1aadb804b2568506aee79f3eb"
-libc = "musl"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "de3a3f3aa4aba2b66953b805e0fc8d41a013292d7357b5da34872f0228a0df4c"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[normaliz]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0376538b8551a20f7aafc2156a4b82e5f01d865a"
-libc = "glibc"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "8dd59c25a4b13866c9a41db97b4b3f01919cddd976b469a6414dd2011ad05e66"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.i686-linux-gnu-cxx03.tar.gz"
-[[normaliz]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1be23544a034a81b9c47268ffbf3090fcd345686"
-libc = "glibc"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "4072437d17ae7cf22f7c645808e520d00747941cb7c7aa86dbe0dae94c3d2fd0"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.i686-linux-gnu-cxx11.tar.gz"
-[[normaliz]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7c8a1f91f46ac173ff5ee7f87307e8ece2949fb7"
-libc = "musl"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "aa202f02649ce082d959d0e8684477318d8b419cdfdbd7d60eb147ef49297a6f"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.i686-linux-musl-cxx03.tar.gz"
-[[normaliz]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1fa9d85b60c934f8eae955d01cad7b1e895a3827"
-libc = "musl"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "da7c0dacebd10913e339d8ef8dec0d05d660da146ad74cdebf304e4731df94ee"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.i686-linux-musl-cxx11.tar.gz"
-[[normaliz]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c672b74fdd787d6da504d3c0d0a503493f3dbf6c"
-libc = "glibc"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "c0964ae20ab1ff4a83be7eb36ac0b325453453c7334d1a1f5ad8fa70aa23b0a4"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[normaliz]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4915e7d2e7dfb554a345981f6dae93733e4d090d"
-libc = "glibc"
-os = "linux"
-
-    [[normaliz.download]]
-    sha256 = "5a2aab09c65b0d33af86378331fd1d2a58af9172da01d37600d8e3c58411603b"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[normaliz]]
-arch = "x86_64"
-git-tree-sha1 = "1f1351228c7fb443fab1d98b547ace8358dca19a"
+git-tree-sha1 = "5e666b2191b511d63a63f1c724522c69441772d0"
 os = "macos"
 
     [[normaliz.download]]
-    sha256 = "8face2ef6372bd17c113e601ba8f9c799dc5c48cb22dd87e2cbc761812776ee0"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "e83b5760e7c2b8d74b83d0af7495d747eca5a31fa437fe5a735beb322435c8a9"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.aarch64-apple-darwin.tar.gz"
 [[normaliz]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca3f3fe90a79d60fb340e65d9d99fe6dc80d3581"
+git-tree-sha1 = "c5544a506cd1138b386bdb3a15e880bfa42f3b6d"
 libc = "glibc"
 os = "linux"
 
     [[normaliz.download]]
-    sha256 = "e8a90fc967a5581c70de201f0ff1f02ce5a947b67dc53eca1320ae97d490301e"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "cdbf77325bf1450688c35c577c87d25833a6b9ef9136ec152c78f38e92c3caa0"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.aarch64-linux-gnu-cxx03.tar.gz"
 [[normaliz]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0d1d7edd83c9ea4d41becec2b4f417b5e3b40ef0"
+git-tree-sha1 = "fc477e750d880391d1b226765431d8c8e30d12c0"
 libc = "glibc"
 os = "linux"
 
     [[normaliz.download]]
-    sha256 = "33f6b46f40e3e9fc764049aa021dd5940a10e234e85b12b24f4138bd39786cea"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0c9f8ff80502738a047464dbdd56dca3fc6e6c76766d8d5c52f6e76597b40811"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.aarch64-linux-gnu-cxx11.tar.gz"
+[[normaliz]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dda3aefb022224446b629899c85b5b28f1963ae7"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "3642975527871ad545f37484a3dcb8d6c39615df2ef936b34e559b938a98483b"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.aarch64-linux-musl-cxx03.tar.gz"
+[[normaliz]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "865e851f76dde46657731c43be42ba050e1b3aae"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "fd22b6e551421e994a39a936d6237e01f4b0720c4ad77e55e7ec6d69ed4ebd31"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.aarch64-linux-musl-cxx11.tar.gz"
+[[normaliz]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dc289e602e01030ec2f95e9d2c64d6481b4139af"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "fd2b09db4eeb74a8ec5d1b164609f84ae3232ad5f22ecab9fa67260a4a49938e"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[normaliz]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0d3c43f59d5ebd74f323a7797567bf3c6c20feed"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "b4a8432d2eccef4fa36efc59fc18ee19ba70b6cd018ff6f71ade462ecea6f34d"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[normaliz]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0323885da7cbf9115530eece06d5443d6e86b33e"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "b5ae128e291630e506a5dbdc20d7932eb5913d83af0070800b81458e1026eef1"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[normaliz]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8f8425f662f0a45f08a0c760e6e37fc069665bd2"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "4b0a96b107104732b2f09aecd573eb42ad64831c289836d4e781c7453d194102"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[normaliz]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "20fe01e40f9acd0c10d2753b58d926f70d655e40"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "99d3d53114e7fccd42fd724683514625928fb9f70967bc6cce7992f2adb5afaa"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[normaliz]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3896abd0330ccdb1e28bdd38c6912c0c5326b0b4"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "2aeb26200cd5d2b5bbd418ebff04f3efce8a1f46783d22e7099cdf48e7a7c7db"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[normaliz]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "178e6e6d21798e83dd3b15771cf6d1421c59c01c"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "b6b04671c8fab96d6a4b008d23781a5f7ce04c4275e28e566af4b486f7847fdf"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[normaliz]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0b98cb0f8af2fe765a017fea44ca4d50ec392e99"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "1630f62a3d79f2d716dc1ca608c961e374bda0f78307820a62de2a95b9bf202a"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[normaliz]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "da211d6d035572a7c10996a7e3bc3b55afd9f241"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "66162543fb72ff584b22d1502b827876c25d84302b502829868ab5044a909132"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.i686-linux-gnu-cxx03.tar.gz"
+[[normaliz]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5844a5085943cf25a5945978bba8762f4be477f"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "3eb2ddf9339bdb66c71d987d99755165555a27d10f8facb0b00299a829d7f32a"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.i686-linux-gnu-cxx11.tar.gz"
+[[normaliz]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd96a977aade213a2d1dec7f9cb7d2b59b262614"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "0c0bb6da9a3411fa6e9e12a2d75cecc0fb00a31d92c883dd76a7354f92623e63"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.i686-linux-musl-cxx03.tar.gz"
+[[normaliz]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d2f1a7096fe20879447308eef53c3bdb174e988"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "1284b5acfd05d34fea6aae5e45bc2c76deee313127fd869ad4c77f743787980f"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.i686-linux-musl-cxx11.tar.gz"
+[[normaliz]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d3482188783394cd5b6cc657f18760b5f2e4eafc"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "17e05fdd13ce40e335d52d18c40452b76ea3013c7c7f72555e5f577d70890e9b"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[normaliz]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f32c2555a89ab5e4af596e8897e613ffbac2b61e"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "c38abe46ae12c60dbab1e541438dbf49a8903108fe0f80790b1367a892e01d90"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+git-tree-sha1 = "4e36ff6987dd950ed150fac2b7cdb57f65c4f0ae"
+os = "macos"
+
+    [[normaliz.download]]
+    sha256 = "4cf9ced25c89de36865a79a19a9a979a38ec7d4ef2eed83836d15fde60a7d5af"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.x86_64-apple-darwin.tar.gz"
 [[normaliz]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bf37383c5b9e5a2d6ed950dc425867b9f6f1c9ef"
-libc = "musl"
+git-tree-sha1 = "0d4daf735eca38cb1ce6af7687a96cda50daa8af"
+libc = "glibc"
 os = "linux"
 
     [[normaliz.download]]
-    sha256 = "d5dc79f1f4c7af0991aae439f2f5490c5a51c9478ac00c6f34319f0a0b2f4b8a"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "832d9c5f5e6322d1f216bbb73033c2ad35704c91bc1dc3cc733a3135ee89d242"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.x86_64-linux-gnu-cxx03.tar.gz"
 [[normaliz]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "265bd7d6242fae39b5e4e031ddbd48bba2a71808"
+git-tree-sha1 = "a8c76c55640d90b1938a05eee04f8ce37f19f982"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "760f6e6258e8920a0c27126a3d7ee888a63d9e59cb18d7ce5aad0791ab5d47ab"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.x86_64-linux-gnu-cxx11.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1428bb9475636365682eddf5b0fe0823f01ee1c3"
 libc = "musl"
 os = "linux"
 
     [[normaliz.download]]
-    sha256 = "d6910efde54dbaeaf8eb6a3d2c3860274bc0173be84e47fa2d5397fb9f910574"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "15a1c0da41b8a047d33db243036575a4638677a8827996091d81c1b095443512"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.x86_64-linux-musl-cxx03.tar.gz"
 [[normaliz]]
 arch = "x86_64"
-git-tree-sha1 = "30fcb5664591e4fb43e5760dd41ba41bde5cfe44"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a3a2af343756e2af00c8a5649f6469bf0a2c1df6"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "b84efd2a2d126569b98adf5eee5ee691e2eea29eea17221c9173a52ea2e9147a"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.x86_64-linux-musl-cxx11.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+git-tree-sha1 = "f7edaf097a344dc432f9730af289edec10b682d7"
 os = "freebsd"
 
     [[normaliz.download]]
-    sha256 = "acfa5d443a72857ede10d5e7da9ec459c2a591b2522fd899be1d751ad7c6feb2"
-    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.0+0/normaliz.v300.900.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "7b566286f8057ad8a9a0453bd1d6a93cc3b7cbb6ce80a560801c1cfe20dd3319"
+    url = "https://github.com/JuliaBinaryWrappers/normaliz_jll.jl/releases/download/normaliz-v300.900.100+0/normaliz.v300.900.100.x86_64-unknown-freebsd.tar.gz"
