@@ -3,6 +3,7 @@ export libnormaliz, normaliz
 
 using GMP_jll
 using MPFR_jll
+using OpenBLAS32_jll
 using FLINT_jll
 using nauty_jll
 using LLVMOpenMP_jll
@@ -10,7 +11,7 @@ JLLWrappers.@generate_wrapper_header("normaliz")
 JLLWrappers.@declare_library_product(libnormaliz, "@rpath/libnormaliz.3.dylib")
 JLLWrappers.@declare_executable_product(normaliz)
 function __init__()
-    JLLWrappers.@generate_init_header(GMP_jll, MPFR_jll, FLINT_jll, nauty_jll, LLVMOpenMP_jll)
+    JLLWrappers.@generate_init_header(GMP_jll, MPFR_jll, OpenBLAS32_jll, FLINT_jll, nauty_jll, LLVMOpenMP_jll)
     JLLWrappers.@init_library_product(
         libnormaliz,
         "lib/libnormaliz.3.dylib",
